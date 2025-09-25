@@ -1,8 +1,9 @@
 # lab-week3-aws-cli
 
 Group Members:
-- Your Name
-- Partner Name
+- Michael Flood
+- Ray CHu
+- Mellaad aktory
 
 This repo contains scripts to automate AWS infrastructure setup using the AWS CLI.
 
